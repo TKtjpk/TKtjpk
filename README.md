@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TKtjpk
+- 👋 Hi, I’m Tomaasz
 - 👀 I’m interested in iOS/Mac & other Apple products development, IoT, Python
 - 🌱 I’m currently learning Swift language
 - 💞️ I’m looking to collaborate on ... - not yet ;)
