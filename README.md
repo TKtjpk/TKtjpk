@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Tomaasz
-- 👀 I’m interested in iOS/Mac & other Apple products development, IoT, Python
-- 🌱 I’m currently learning Swift language
-- 💞️ I’m looking to collaborate on ... - not yet ;)
-- 📫 How to reach me ... at any time via github
+- Hi, I'm Tomasz 👋
+- :innocent: I’m interested in Cybersecuity 
+- 🌱 My programming skils:
+- - C
+- - C++
+- - Swift
+- - Python
+- 👀 I’m looking for a chance to collaborate on test writing, so if anyone need some help with it and is eager to hand over such a thing to a begginer pls contact me
