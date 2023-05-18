@@ -5,4 +5,4 @@
 - - C++
 - - Swift
 - - Python
-- 👀 I’m looking for a chance to collaborate on test writing, so if anyone need some help with it and is eager to hand over such a thing to a begginer pls contact me
+- 👀 A highly motivated and results-oriented individual with a strong passion for cybersecurity and a keen interest in penetration testing. Possessing a solid foundation in network security, ethical hacking and risk assessment. Seeking an entry-level position in penetration testing to leverage my technical skills and gain practical experience in the field.
