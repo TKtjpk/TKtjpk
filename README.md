@@ -18,7 +18,7 @@ Currently, I am actively seeking opportunities to make meaningful contributions 
 
 ## How I Can Contribute
 
-- **Swift, C, C++, Java, and Python:** I'm proficient in these languages and can contribute to projects using any of them.
+- **Swift, C, C++, Java, and Python:** I'm faimiliar with these languages and can contribute to projects using any of them.
 - **Security Auditing:** With my interest in cybersecurity, I can help review code, identify vulnerabilities, and suggest improvements to bolster the security of projects.
 - **Problem Solving:** I have a strong analytical mindset and enjoy tackling complex challenges with creative solutions.
 - **Code Reviews:** I believe in the power of constructive feedback and can provide thorough code reviews to enhance code quality.
