@@ -29,6 +29,6 @@ Currently, I am actively seeking opportunities to make meaningful contributions 
 I'm open to various opportunities, including job offers, internships, freelance projects, and collaboration requests. If you think I could be a valuable addition to your team or project, feel free to reach out to me:
 
 - **GitHub:** [TKtjpk](https://github.com/TKtjpk)
-- **LinkedIn:** (https://www.linkedin.com/in/tomasz-kubicki-9711b6246/)
+- **LinkedIn:** [Tomasz Kubicki](https://www.linkedin.com/in/tomasz-kubicki-9711b6246/)
 
 Let's connect and explore how we can work together to create amazing software and enhance cybersecurity practices! 🚀
