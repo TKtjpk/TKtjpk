@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 - Permanently working on home lab expansion, running full quorate Proxmox cluster
-- Infrastructure - gateway, 4 switches and 3 AP's, NAS installation pending
+- Infrastructure - gateway, 4 switches and 3 AP's, NAS installation pending. Network segregation, firewall setup.
 - What's running in there ? - - - Load Balancer, Wazuh, Suricata, Docker, Kubernetes cluster, Kali Linux, Jenkins for private project's CI/CD
 - How do I access it ? - - - via Cloudflare
 - Why Kali Linux ? - - - after intensive Red Team training became hungry for more so decided to setup my own Cyber Security Lab for training. Currently using it for testing own SIEM setup
